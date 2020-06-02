@@ -6,3 +6,13 @@ def using_insert(arr, el)
   arr.insert(4, el)
 end
 
+def using_uniqarr)
+  arr.uniq 
+end
+
+def using_flatten(arr)
+  arr.flatten 
+end
+
+def using_delete(arr, str)
+  
